@@ -1,1 +1,1 @@
-# noise-cancelling
+# noise-reducing
